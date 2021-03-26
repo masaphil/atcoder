@@ -1,4 +1,4 @@
-use proconio::{input, fastout};
+use proconio::{fastout, input};
 
 #[fastout]
 fn main() {
